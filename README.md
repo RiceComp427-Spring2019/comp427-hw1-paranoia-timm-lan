@@ -26,9 +26,9 @@ please cut-and-paste the text from that email here._
   - The physical device on which the document management system is deployed. If the device is exposed to bad people, it could be damaged, or someone could install malware on it and intercept information.
   
 - Threats:
-  - Thieves that might break into the firm physically and steal information.  
+  - Thieves that might break into the firm physically and steal information from devices that is connected to the document system directly.  
   - Cyber thieves that break into the firm’s system from internet or malware and steal information.
-  - Some employees download the documents on their desktop, while forget to lock their desktop after they leave. Bad people could potentially access these documents using their unlocked desktop.
+  - Some employees might download the documents on their desktop, while forgetting to lock their desktop after they leave. Bad people that wander around in the firm could potentially access these documents using their unlocked desktop.
   
 - Countermeasures:
   - Keep the document system physical server in a safe place, such as a locked server room. Or alternatively, rent a third-party server with not physical security concern. Cost would be it’d increase cost for maintaining the server. Benefits would be it isolate the physical server from the public.
@@ -75,6 +75,6 @@ please cut-and-paste the text from that email here._
 
 - Countermeasures:
   - Do not save patients’ payment information. Cost: makes it inconvenient for regular patients as they need to fill in the same payment information every time.  Benefits: less chance to have liability of leaking payment information if you simply don’t record them.
-  - Buy good safes to store patients’ medical records, and develop polices for accessing the documents, such as logging a time stamp, and requesting a signature every time an employee needs to access a document. 
+  - Buy good safes to store patients’ medical records, and develop polices for accessing the documents, such as logging a time stamp, and requesting a signature every time an employee needs to access a document. Cost: Safes are expensive. And documents would also become less accessible for normal usage. Benefits: Documents are less accessible for bad people. If anything happens, we could also track down the person who is responsible.
 
 
