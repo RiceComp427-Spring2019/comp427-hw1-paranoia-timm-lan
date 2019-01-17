@@ -9,7 +9,7 @@ You will do this homework by editing the _README.md_ file. It's in
 and will be rendered to beautiful HTML when you visit your GitHub repo.
 
 ## Student Information
-_Student name_: Dan WALLACH
+_Student name_: Tian Lan
 
 _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
